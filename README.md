@@ -6,8 +6,15 @@
 ## Tecnologias
 <div>
 
-<https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
-<https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
-<https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+# Meu Projeto
+
+Este projeto utiliza as seguintes tecnologias:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50">
+
+
+
   
 </div>
